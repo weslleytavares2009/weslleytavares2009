@@ -1,36 +1,22 @@
-## Sobre mim
-- 🔧 Estudante de back-end
-- 🐍 Aprendendo python
+<div style="display: flex;"> <!-- Main -->
+  <h6>Languages:</h6>
+  <img src="https://img.shields.io/badge/PYTHON-%20?style=flat-square&logo=python&logoColor=white&color=B35900" height="16"/>
+  <h6>Frameworks:</h6>
+  <img src="https://img.shields.io/badge/SELENIUM-%20?style=flat-square&logo=laravel&logoColor=white&color=2A8000" height="16" />
+  <h6>Learning:</h6>
+  <img height="16" src="https://img.shields.io/badge/NODE.JS-%20?style=flat-square&logo=rust&logoColor=white&color=999900" />
 
-<div><br>
-    <a href="https://beacons.ai/weslleytavares2009">
-    <img height="50%" src="https://github-readme-stats.vercel.app/api?username=weslleytavares2009&show_icons=true&theme=tokyonight&border_color=7CB9E8"/>
-    <img height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weslleytavares2009&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
 
+<a target="_blank" href="https://twitter.com/weslleytavars">  <!-- Twitter -->
+  <img align="right" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" height="25" width="25"/>
+</a>
+<a target="_blank" href="https://www.linkedin.com/in/weslley-tavares/"> <!-- LinkedIn -->
+  <img align="right" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="25" width="25" />
+</a>
 
-## Linguagens & Ferramentas
-<div style="display: inline_block">
-    <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
-    <img align="center" alt="VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">
+---
+<div align="center"> <!-- Analytics -->
+    <img src="https://github-readme-stats.vercel.app/api?username=weslleytavares2009&show_icons=true&include_all_commits=true&line_height=20&hide_border=true&theme=tokyonight" width="440"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=weslleytavares2009&layout=compact&theme=tokyonight&hide_border=true" width="313" />
 </div>
-
-## Frameworks
-<div style="display: inline_block">
-    <img align="center" alt="Selenium" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg">
-</div>
-
-<!--
-**weslleytavares2009/weslleytavares2009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
