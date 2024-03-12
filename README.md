@@ -1,22 +1,36 @@
-<div style="display: flex;"> <!-- Main -->
-  <h6>Languages:</h6>
-  <img src="https://img.shields.io/badge/PYTHON-%20?style=flat-square&logo=python&logoColor=white&color=B35900" height="16"/>
-  <h6>Frameworks:</h6>
-  <img src="https://img.shields.io/badge/SELENIUM-%20?style=flat-square&logo=laravel&logoColor=white&color=2A8000" height="16" />
-  <h6>Learning:</h6>
-  <img height="16" src="https://img.shields.io/badge/NODE.JS-%20?style=flat-square&logo=rust&logoColor=white&color=999900" />
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Weslley+Tavares!;" />
+</h1>
 
+<h3 align="center">A young junior programmer who loves programming! 🇧🇷</h3>
+
+<br/>
+
+<div align="center">
+
+ 🔭 I’m currently working on **nothing**
+
+🌱 I’m currently learning **Python**
+
+💬 Ask me about **anything [here](https://github.com/weslleytavares2009/weslleytavares2009/issues "Issues")**
+
+<div align="center"> 
+  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <!--<a href="https://salesp07.github.io" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
 </div>
 
-<a target="_blank" href="https://twitter.com/weslleytavars">  <!-- Twitter -->
-  <img align="right" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" height="25" width="25"/>
-</a>
-<a target="_blank" href="https://www.linkedin.com/in/weslley-tavares/"> <!-- LinkedIn -->
-  <img align="right" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="25" width="25" />
-</a>
+<hr/>
 
----
-<div align="center"> <!-- Analytics -->
-    <img src="https://github-readme-stats.vercel.app/api?username=weslleytavares2009&show_icons=true&include_all_commits=true&line_height=20&hide_border=true&theme=tokyonight" width="440"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=weslleytavares2009&layout=compact&theme=tokyonight&hide_border=true" width="313" />
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=vscode,github,git" />
+    <img src="https://skillicons.dev/icons?i=python,selenium" /><br>
 </div>
+
+<br/>
+<hr/>
