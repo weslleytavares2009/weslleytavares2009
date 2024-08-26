@@ -10,7 +10,7 @@
 
  🔭 I’m currently working on **nothing**
 
-🌱 I’m currently learning **Python**
+🌱 I’m currently learning **Java**
 
 💬 Ask me about **anything [here](https://github.com/weslleytavares2009/weslleytavares2009/issues "Issues")**
 
@@ -29,7 +29,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=vscode,github,git" />
-    <img src="https://skillicons.dev/icons?i=python,selenium" /><br>
+    <img src="https://skillicons.dev/icons?i=python,java,selenium" /><br>
 </div>
 
 <br/>
