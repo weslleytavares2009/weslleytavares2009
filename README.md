@@ -1,36 +1,32 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Weslley+Tavares!;" />
-</h1>
+# ☕ Weslley Tavares
 
-<h3 align="center">A young junior programmer who loves programming! 🇧🇷</h3>
+**`Programamer (Software-Development/Automation)`**
 
-<br/>
+I'm currently an indie programmer working for myself. I started learning programming at the age of 12 creating ROBLOX games and now, at 15, I'm focusing on learning everything that programming can offer me. I'm currently learning **C-Sharp, Java and SQL**. I'm self-taught and learned most programming concepts by myself. Additionally, I'm also taking a **C-Sharp & SQL** course in ***Microlins***. I love programming and I hope to create something really special one day!
 
-<div align="center">
+   <p align="left">
+      <a href="https://github.com/weslleytavares2009/weslleytavares2009/issues">
+         <img alt="Ask me anything!" title="Ask me something!" src="https://custom-icon-badges.demolab.com/badge/Issue-red.svg?logo=issue-opened&logoColor=fff" height=28/></a> 
+      <a href="https://github.com/ForrestKnight?tab=followers">
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/weslleytavares2009?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+      <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/weslleytavares2009?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+   </p>
 
- 🔭 I’m currently working on **nothing**
+---
 
-🌱 I’m currently learning **Java**
+### 🧰 Languages and Tools
 
-💬 Ask me about **anything [here](https://github.com/weslleytavares2009/weslleytavares2009/issues "Issues")**
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="Lua" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" />
+<img align="left" alt="C-Sharp" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=github"/>
+<img align="left" alt="VSCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+<img align="left" alt="Visual Studio" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-original.svg" />
+<img align="left" alt="Eclipse" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" />
+<img align="left" alt="Selenium" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />
+<br />
 
-<div align="center"> 
-  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <!--<a href="https://salesp07.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
-</div>
-
-<hr/>
-
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,github,git" />
-    <img src="https://skillicons.dev/icons?i=python,java,selenium" /><br>
-</div>
-
-<br/>
-<hr/>
+#
