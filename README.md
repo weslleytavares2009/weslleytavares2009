@@ -7,9 +7,9 @@ I'm currently an indie programmer working for myself. I started learning program
    <p align="left">
       <a href="https://github.com/weslleytavares2009/weslleytavares2009/issues">
          <img alt="Ask me anything!" title="Ask me something!" src="https://custom-icon-badges.demolab.com/badge/Issue-red.svg?logo=issue-opened&logoColor=fff" height=28/></a> 
-      <a href="https://github.com/ForrestKnight?tab=followers">
+      <a href="https://github.com/weslleytavares2009?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/weslleytavares2009?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
+      <a href="https://github.com/weslleytavares2009?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/weslleytavares2009?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
 
