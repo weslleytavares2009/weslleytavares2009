@@ -2,7 +2,7 @@
 
 **`Programamer (Software-Development/Automation)`**
 
-I'm currently an indie programmer working for myself. I started learning programming at the age of 12 creating ROBLOX games and now, at 15, I'm focusing on learning everything that programming can offer me. I'm currently learning **C-Sharp, Java and SQL**. I'm self-taught and learned most programming concepts by myself. Additionally, I'm also taking a **C-Sharp & SQL** course in ***Microlins***. I love programming and I hope to create something really special one day!
+I'm currently an indie programmer working for myself. I started learning programming at the age of 12 creating ROBLOX games and now, at 15, I'm focusing on learning everything that programming can offer me. I'm currently learning **C-Sharp, SQL, C++ & OpenGL**. I'm self-taught and learned most programming concepts by myself. Additionally, I'm also taking a **C-Sharp & SQL** course in ***Microlins***. I love programming and I hope to create something really special one day!
 
    <p align="left">
       <a href="https://github.com/weslleytavares2009/weslleytavares2009/issues">
@@ -21,12 +21,14 @@ I'm currently an indie programmer working for myself. I started learning program
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Lua" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" />
 <img align="left" alt="C-Sharp" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
+<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=github"/>
 <img align="left" alt="VSCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img align="left" alt="Visual Studio" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-original.svg" />
 <img align="left" alt="Eclipse" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" />
 <img align="left" alt="Selenium" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />
+<img align="left" alt="OpenGL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" />
 <br />
 
 #
