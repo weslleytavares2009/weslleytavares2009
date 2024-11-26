@@ -5,12 +5,12 @@
 I'm currently an indie programmer working for myself. I started learning programming at the age of 12 creating ROBLOX games and now, at 15, I'm focusing on learning everything that programming can offer me. I'm currently learning **C-Sharp, SQL, C++ & OpenGL**. I'm self-taught and learned most programming concepts by myself. Additionally, I'm also taking a **C-Sharp & SQL** course in ***Microlins***. I love programming and I hope to create something really special one day!
 
    <p align="left">
-      <a href="https://github.com/weslleytavares2009/weslleytavares2009/issues">
+      <a href="https://github.com/weslleytavars/weslleytavars/issues">
          <img alt="Ask me anything!" title="Ask me something!" src="https://custom-icon-badges.demolab.com/badge/Issue-red.svg?logo=issue-opened&logoColor=fff" height=28/></a> 
-      <a href="https://github.com/weslleytavares2009?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/weslleytavares2009?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/weslleytavares2009?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/weslleytavares2009?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+      <a href="https://github.com/weslleytavars?tab=followers">
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/weslleytavars?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+      <a href="https://github.com/weslleytavars?tab=repositories&sort=stargazers">
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/weslleytavars?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
 
 ---
